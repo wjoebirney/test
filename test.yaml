@@ -1,13 +1,4 @@
-resources:
-  - name: Test_GitRepo
-    type: GitRepo
-    configuration:
-      gitProvider: Github_SolEng
-      path: wjoebirney/test
-      branches:
-        include: master
-        
-                
+       
 pipelines:
   - name: jb_pipeline
 steps:
