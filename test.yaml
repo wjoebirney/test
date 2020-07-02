@@ -7,8 +7,7 @@ resources:
       branches:
         include: master
         
-        
-        
+                
 pipelines:
   - name: jb_pipeline
-  steps:
+steps:
