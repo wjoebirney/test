@@ -11,3 +11,4 @@ resources:
         
 pipelines:
   - name: jb_pipeline
+  steps:
